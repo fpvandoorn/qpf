@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/avigad/qpf.svg?branch=master)](https://travis-ci.org/avigad/qpf)
 
-testing, ignore me
+testing, ignore me. Let's make a second test.
 
 # Data Types as Quotients of Polynomial Functors
 

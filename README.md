@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/avigad/qpf.svg?branch=master)](https://travis-ci.org/avigad/qpf)
 
+testing, ignore me
+
 # Data Types as Quotients of Polynomial Functors
 
 This repository contains a formalization of data type constructions in Lean, by Jeremy Avigad, Mario Carneiro, and Simon Hudon. A preliminary version of the work is described in this talk: [http://www.andrew.cmu.edu/user/avigad/Talks/qpf.pdf](http://www.andrew.cmu.edu/user/avigad/Talks/qpf.pdf).
